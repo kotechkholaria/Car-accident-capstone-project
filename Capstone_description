@@ -1,0 +1,2 @@
+to minimize the chance for ca collisions we should develop an algorithm wich will predict the severity of an accident in a current weather and visibility conditions. when conditions are bad it should give us a notification to be more careful
+Target variable must be 'SEVERITYCODE' it measures severity of an accident (0-5) , and attributes 'WEATHER' 'ROADCOND' 'LIGHTCOND'
